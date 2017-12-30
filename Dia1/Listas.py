@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8-*-
+
 lista = ["Karina", 'Ricardo', "Alan", 'Roger','Alberto']
 
 print lista[0]
