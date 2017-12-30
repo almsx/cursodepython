@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# -*- coding: utf-8-*-
+
 agenda=[{'idContacto':'1',
 		'Nombre':'Ricardo',
 		'Apellidos':'Cruz',
