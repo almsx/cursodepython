@@ -5,3 +5,6 @@
 
 * Agregar Python al path de Windows:
         * url: https://www.youtube.com/watch?v=1-j5FZrX4gg
+
+* Instalación de SSH y GPG keys en Windows
+	* url: 
