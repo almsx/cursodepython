@@ -83,4 +83,3 @@ else:
 
 #Calculamos el RFC
 rfc = m_ap + m_am + m_no + "-" + p_f_ye + p_f_mo + p_f_da + "-XXX"
-print (rfc.upper())
