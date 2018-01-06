@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# -*- coding: utf-8-*-
+
 import math
 
 a = input("Ingresa el valor de a ")

@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# -*- coding: utf-8-*-
+
 Agenda = [{'id':1, 'nombre': 'Juana', 'tel': '5556581111', 'mail':'prueba@mail.com', 'edad':35, 'edoCivil': 'Soltero'},
 {'id':2, 'nombre':'Petra', 'tel':'6589524554', 'mail':'petra@mail.com', 'edad':21, 'edoCivil':'Divorciada'},
 {'id':3, 'nombre':'Jacinto', 'tel':'2224578554', 'mail':'jaci21@mail.com', 'edad':63, 'edoCivil':'Casada'},
