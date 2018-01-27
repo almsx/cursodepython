@@ -1,6 +1,6 @@
 #!/usr/bin/python
 palabra = raw_input("Ingresa una palabra ")
-while not all(x.isalpha() for x in palabra):
+while not all(x.isalpha() or x.isspace() for x in palabra):
 	palabra = raw_input("Ingresa una palabra ")
 print "Las vocales son:"
 for caracter in palabra:
@@ -9,5 +9,5 @@ for caracter in palabra:
 
 print "Las consonantes son:"
 for caracter in palabra:
-        if caracter not in "aeiouAEIOU":
+        if caracter not in "aeiouAEIOU" and caracter != " ":
            print caracter + caracter.upper()
