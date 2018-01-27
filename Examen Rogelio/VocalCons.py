@@ -5,9 +5,10 @@
 cadena = raw_input("Ingresa alguna palabra: ")
 a = b = espacios = con = voc = num = ""
 count = cuenta = 0
-
+cadena = cadena.decode('utf-8')
 for x in cadena.upper():
-	if x == "A" or x == "E" or x == "I" or x == "O" or x == "U":
+	
+	if x == u"A" or x == u"E" or x == u"I" or x == u"O" or x == u"U" or x == u"É":
 		a = a + x
 		voc = " - Las vocales son: " + a
 	elif x == " ":
