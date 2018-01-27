@@ -14,3 +14,18 @@
 * GitLab
         * url:
         https://about.gitlab.com/
+
+* Instalación de GTK en macOS
+
+Paso 1
+
+brew install pygobject3 --with-python3 gtk+3
+
+Paso 2
+brew install pygobject pygobject3
+
+Paso 3
+mkdir -p "$HOME/Library/Python/2.7/lib/python/site-packages”
+
+Paso 4
+echo  'import site; site.addsitedir("/usr/local/lib/python2.7/site-packages")' >> "$HOME/Library/Python/2.7/lib/python/site-packages/homebrew.pth”
