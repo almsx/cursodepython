@@ -12,4 +12,4 @@ Python mediante código y documentación.
 
 ## Curso Python Diciembre 2017
 
-Para alumnos de Diciembre 2017, visitar este [enlace por favor](https://github.com/almsx/cursodepython/tree/cursopython2017_1) 
+Para alumnos de Diciembre 2017, visitar este [enlace](https://github.com/almsx/cursodepython/tree/cursopython2017_1) por favor
