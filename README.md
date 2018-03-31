@@ -10,5 +10,6 @@
 Este git tiene como objetivo dar ejemplos y proyectos de
 Python mediante código y documentación.
 
-##Fecha de Cursos - 24 Febrero - 2018
-última actualización - 31 Marzo - 2018
+## Curso Python Diciembre 2017
+
+Para alumnos de Diciembre 2017, visitar este [enlace por favor](https://github.com/almsx/cursodepython/tree/cursopython2017_1) 
