@@ -20,4 +20,4 @@ print ("\033[4mHola Mundo\033[0m")
 mensaje = "Hola Mundo desde variable"
 
 #Imprimir en color y subrayado el contenido de una variable
-print ("\033[4;34m"+mensaje)
+print ("\033[34;4m"+mensaje)
