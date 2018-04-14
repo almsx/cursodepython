@@ -1,4 +1,5 @@
 #! /usr/bin/python
+#-*-encoding: utf-8 -*-
 #AUTHOR: José Antonio Castelo Vega
 
 a = 4

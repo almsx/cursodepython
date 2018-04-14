@@ -1,4 +1,5 @@
-#/usr/bin/python 
+#! /usr/bin/python
+#-*-encoding: utf-8 -*-
 
 for celcius in range (0,11):
 	print " De " +str(celcius) + " grados celcius a Fahrenheit son " +str((celcius*1.8)+32)

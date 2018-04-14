@@ -1,6 +1,8 @@
+#! /usr/bin/python
+#-*-encoding: utf-8 -*-
 
 a=3 
- b=5 
+b=5 
 #la funcion de str es para hacerlo cadena 
 #float es para hacer el numero real o flotante 
  

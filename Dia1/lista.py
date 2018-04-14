@@ -1,3 +1,5 @@
+#! /usr/bin/python
+#-*-encoding: utf-8 -*-
 listas=['cadena de texto', 15,2.8,'otro dato, 25']
 #listaABCD=['a','b','c','d']
 #cadena de datos en la que si se pueden cambiar

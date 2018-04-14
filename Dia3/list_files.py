@@ -1,4 +1,5 @@
-#!/usr/bin/python
+#! /usr/bin/python
+#-*-encoding: utf-8 -*-
 #Author: jcastelo - 04/03/2018
 
 # This script will list the files in a directory

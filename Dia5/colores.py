@@ -1,3 +1,6 @@
+#! /usr/bin/python
+#-*-encoding: utf-8 -*-
+
 #Colores.py
 #Imprimir un mensaje bajo colores
 

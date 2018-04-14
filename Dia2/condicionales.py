@@ -1,4 +1,5 @@
-#/usr/bin/python 
+#! /usr/bin/python
+#-*-encoding: utf-8 -*-
 
 #edad=45
 #if edad >=18:

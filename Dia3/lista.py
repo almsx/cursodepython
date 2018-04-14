@@ -1,4 +1,5 @@
 #! /usr/bin/python
+#-*-encoding: utf-8 -*-
 # -*- encoding: utf-8 -*-
 
 #Author: jcastelo on 030318

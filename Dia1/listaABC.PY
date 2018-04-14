@@ -1,4 +1,4 @@
-#/usr/bin/python 
+#! /usr/bin/python
 #-*-encoding: utf-8 -*-
 #agregar acentos
 lista=['a','b', 'c','d','e','f', 'g','h']
