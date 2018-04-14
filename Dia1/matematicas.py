@@ -1,4 +1,5 @@
-#/usr/bin/python 
+#! /usr/bin/python
+#-*-encoding: utf-8 -*-
 import math 
 x=90
 seno=math.sin(x)
